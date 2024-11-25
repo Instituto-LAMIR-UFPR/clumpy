@@ -12,7 +12,7 @@ import xlcor47_modified
 from scipy.optimize import root
 
 
-
+test = 1,75
 
 CIT_Carrara_CRF = 0.352
 TV03_CRF = 0.650
